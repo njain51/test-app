@@ -22,7 +22,28 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-  
+
+  <developers>
+    <developer>
+      <id>njain51</id>
+      <name>Nitin Jain</name>
+      <email>official.nitinjain@gmail.com</email>
+      <organization>njain51</organization>
+      <organizationUrl>https://www.linkedin.com/in/nitin-jain-10580b6/</organizationUrl>
+      <roles>
+        <role>devops consultant</role>
+        <role>developer</role>
+      </roles>
+      <timezone>-5</timezone>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:git://github.com/njain51/test-app.git</connection>
+    <developerConnection>scm:git:git://github.com/njain51/test-app.git</developerConnection>
+    <url>https://github.com/njain51/test-app</url>
+    <tag>HEAD</tag>
+  </scm>
   
   <dependencies>
     <dependency>
